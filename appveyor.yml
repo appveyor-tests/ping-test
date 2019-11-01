@@ -1,4 +1,4 @@
 build: off
 
 test_script:
-- ping -c 5 www.google.com
+- ping -c n www.google.com
